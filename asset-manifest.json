@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7c0cb2e.css",
-    "main.js": "/static/js/main.1420392b.js",
+    "main.css": "/static/css/main.96287314.css",
+    "main.js": "/static/js/main.6f3a1faf.js",
     "static/js/453.d6f0799d.chunk.js": "/static/js/453.d6f0799d.chunk.js",
     "static/media/laptolease-innovation.svg": "/static/media/laptolease-innovation.1329cf3f641c56eda438ccf7b1245990.svg",
     "static/media/smartstay-innovation.svg": "/static/media/smartstay-innovation.758f57d302a19dc8df55e7c764d2755e.svg",
@@ -24,12 +24,12 @@
     "static/media/profile.svg": "/static/media/profile.d5ca53815bfea4bc8e1166d683f8a55c.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.de352850fcbf686ffbd2.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.fe9ac8a738b03933b5fd.svg",
-    "main.d7c0cb2e.css.map": "/static/css/main.d7c0cb2e.css.map",
-    "main.1420392b.js.map": "/static/js/main.1420392b.js.map",
+    "main.96287314.css.map": "/static/css/main.96287314.css.map",
+    "main.6f3a1faf.js.map": "/static/js/main.6f3a1faf.js.map",
     "453.d6f0799d.chunk.js.map": "/static/js/453.d6f0799d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7c0cb2e.css",
-    "static/js/main.1420392b.js"
+    "static/css/main.96287314.css",
+    "static/js/main.6f3a1faf.js"
   ]
 }
