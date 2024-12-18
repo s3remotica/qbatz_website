@@ -1,43 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72fd78da3fe1a0f4dd3050649d44dd89",
+    "revision": "1656fb307dfbcfe8d00ad3e96d46b9ec",
     "url": "/index.html"
   },
   {
-    "revision": "6c009f2ce3080757b204",
-    "url": "/static/css/2.eaa86fc5.chunk.css"
+    "revision": "c163c4cb0620aa149fa9",
+    "url": "/static/css/2.a0b8c805.chunk.css"
   },
   {
-    "revision": "c4bf40c9e384a920d035",
-    "url": "/static/css/main.efa1c377.chunk.css"
+    "revision": "180779ec764b613e5975",
+    "url": "/static/css/main.d2f7f187.chunk.css"
   },
   {
-    "revision": "6c009f2ce3080757b204",
-    "url": "/static/js/2.7ccc486e.chunk.js"
+    "revision": "c163c4cb0620aa149fa9",
+    "url": "/static/js/2.9215df3d.chunk.js"
   },
   {
     "revision": "9a87d441d6f1d11956d517a23294f3df",
-    "url": "/static/js/2.7ccc486e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9215df3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b6bbaf3e3b089acd27e",
-    "url": "/static/js/3.62ccc47a.chunk.js"
+    "revision": "8f3235ea8c95bb3a5cb7",
+    "url": "/static/js/3.226d082e.chunk.js"
   },
   {
-    "revision": "c4bf40c9e384a920d035",
-    "url": "/static/js/main.a97ad96a.chunk.js"
+    "revision": "180779ec764b613e5975",
+    "url": "/static/js/main.ab28dc8d.chunk.js"
   },
   {
-    "revision": "299d03f43408f8575398",
-    "url": "/static/js/runtime-main.98bfa66e.js"
+    "revision": "f6d14336271c7d502e74",
+    "url": "/static/js/runtime-main.92d5bc11.js"
   },
   {
     "revision": "f0b781e3fd22ed6ec08f3be4e3fdfd78",
     "url": "/static/media/Designing-A-Website-2--Streamline-Brooklyn.f0b781e3.svg"
-  },
-  {
-    "revision": "bb2ea72378f08c5bf370b0eb79458534",
-    "url": "/static/media/Ellipse.bb2ea723.svg"
   },
   {
     "revision": "03ae2efc18bbe2d8e17d07c534df4b8d",
@@ -64,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/code-circle.4b8f7add.svg"
   },
   {
+    "revision": "7f7fe932fab4d088bb651aef8332692f",
+    "url": "/static/media/comtal-logo.7f7fe932.jpg"
+  },
+  {
     "revision": "2ea66ddd2e51ccdb1406c3e6d1587d3a",
     "url": "/static/media/courses.2ea66ddd.svg"
+  },
+  {
+    "revision": "599ca92aedd95400aabfd258422c11f3",
+    "url": "/static/media/kubera-logo.599ca92a.jpeg"
   },
   {
     "revision": "1a7c361e54f7b7fff6f828b3b164c1b4",
